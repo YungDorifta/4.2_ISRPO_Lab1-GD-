@@ -1,0 +1,7 @@
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\bin\Debug\LabSocket.exe.config
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\bin\Debug\LabSocket.exe
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\bin\Debug\LabSocket.pdb
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\obj\Debug\LabSocket.csprojAssemblyReference.cache
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\obj\Debug\LabSocket.csproj.CoreCompileInputs.cache
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\obj\Debug\LabSocket.exe
+H:\ИСРПО\!Лабы\Сокеты\LabSocket\LabSocket\obj\Debug\LabSocket.pdb

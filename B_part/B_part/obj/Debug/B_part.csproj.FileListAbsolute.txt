@@ -1,0 +1,7 @@
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\bin\Debug\B_part.exe.config
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\bin\Debug\B_part.exe
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\bin\Debug\B_part.pdb
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\obj\Debug\B_part.csprojAssemblyReference.cache
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\obj\Debug\B_part.csproj.CoreCompileInputs.cache
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\obj\Debug\B_part.exe
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\B_part\B_part\obj\Debug\B_part.pdb

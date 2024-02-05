@@ -1,0 +1,14 @@
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.exe.config
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.exe
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.pdb
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketClient.csprojAssemblyReference.cache
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketClient.csproj.CoreCompileInputs.cache
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketServer.exe
+H:\ИСРПО\!Лабы\!Лаб1(ГД)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketServer.pdb
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.exe.config
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.exe
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\bin\Debug\LabSocketServer.pdb
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketClient.csprojAssemblyReference.cache
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketClient.csproj.CoreCompileInputs.cache
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketServer.exe
+D:\_ALL\College\4 course\2 semester\ИСРПО\+Лаб1(GD)\LabSocketClient\LabSocketServer\obj\Debug\LabSocketServer.pdb

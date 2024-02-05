@@ -1,0 +1,15 @@
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\ИСРПО\!Лабы\Сокеты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
